@@ -3,18 +3,18 @@ import { AppWrap, MotionWrap } from "../wrapper";
 
 const ExperienceList = [
   {
-    title: "Full Stack Development Intern",
-    company: "TECHOX LLP",
-    duration: "May 2021 - July 2022",
-    desc: "I worked as a Full Stack Developer Intern at TECHOX LLP, a startup company to build and delivers a number of mobile applications as well as APIs.",
-    tags: ["Flutter", "Dart", "React.js", "Node.js", "Redux", "MongoDB", "Express.js", "JavaScript", "Python", "Django"],
+    title: "Technology Forensics",
+    company: "AD Judcaial Court",
+    duration: "Aug 2022 - Oct 2022",
+    desc: "Worked on tools used on computers and drones for forensics, Used FTK for data wiping and computer forensics.",
+    tags: ["Celibrite", "FTK", "FTK imager", "Wireshark"],
   },
   {
-    title: "Web Development Intern",
-    company: "Career Corner Education Pvt. Ltd.",
-    duration: "July 2021 - Nov 2021",
-    desc: "I worked as a Web Development Intern at Career Corner Education Pvt. Ltd. to build and deploy static as well as dynamic websites.",
-    tags: ["React.js", "Firebase", "Redux", "HTML", "CSS", "JavaScript", "Bootstrap"],
+    title: "IT support and Inoformation security",
+    company: "Abu Dhabi Early Childhood Authority",
+    duration: "Oct 2022 - Jan 2023",
+    desc: "Configuring and servicing networks and servers IT infrastructure IS policy and governance, Supported the IT department on their tasks.Creating application interface and database using Microsoft PowerApp.",
+    tags: ["IS/IT poilicy", "microsoft PowerBI", "Routers and switches", "Microsoft PowerAPP",],
   }
 ];
 

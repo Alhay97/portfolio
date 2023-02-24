@@ -12,11 +12,11 @@ const Footer = () => {
         <div className="email">
           <BsEnvelopeFill />
           <a
-            href="mailto:nkr.nikhil.nkr@gmail.com"
+            href="mailto:alhay.7@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
-            nkr.nikhil.nkr@gmail.com
+            alhay.7@gmail.com
           </a>
         </div>
 
@@ -27,7 +27,7 @@ const Footer = () => {
 
         <div className="app__social__links">
           <a
-            href="https://linkedin.com/in/nixrajput"
+            href="https://www.linkedin.com/in/alhai-ahmed-alhameli/"
             target="_blank"
             rel="noreferrer"
           >
@@ -35,7 +35,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://instagram.com/nixrajput"
+            href="https://instagram.com/alhay.97?igshid=ZDdkNTZiNTM="
             target="_blank"
             rel="noreferrer"
           >
@@ -43,19 +43,11 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://twitter.com/nixrajput07"
+            href="https://twitter.com/a_alhamely?t=YpIG3N9WcuxLZigxIHDgFw&s=08"
             target="_blank"
             rel="noreferrer"
           >
             <BsTwitter />
-          </a>
-
-          <a
-            href="https://facebook.com/nixrajput07"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <BsFacebook />
           </a>
         </div>
       </div>

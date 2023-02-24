@@ -21,15 +21,15 @@ const About = () => {
 
         <div className="details">
           <h1 className="head-text">I am Alhai Ahmed Alhameli.</h1>
-          <p className="p-text"><span>•</span> Graduated with Bachelor of Technology in IT Security and Technologies.</p>
-          <p className="p-text"><span>•</span> I have worked on various projects as a Flutter Developer as well as a Web Developer. Apart from that, I have also worked as a Backend Developer.</p>
-          <p className="p-text"><span>•</span> Strong knowledge and understanding of Ethical Hacking , Web application security, and C/C++ programming.</p>
+          <p className="p-text"><span>•</span> Graduated with Bachelor of Technology in IT Security and Forensics.</p>
+          <p className="p-text"><span>•</span> I have worked on various projects using kali linux, SEIM solution, and OWASP tools..</p>
+          <p className="p-text"><span>•</span> I am Currently learning C/C++ programming for software development and node.js for front-end web application.</p>
 
           <p className='p-text-head'>My Preferred Tools and Technologies are 👇</p>
 
           <div className="preferred__skills">
             {
-              ["Dart, JavaScript, C++", "Flutter, React.js, Node.js, Next.js", "GetX, Provider, Redux", "MongoDB, Firebase, MySQL"].map((item, index) => {
+              ["Kali linux, Security onion", "OWASP, NMAP, Wire shark.", "JavaScript, C++", "Node.js, react.js"].map((item, index) => {
                 return (
                   <div key={index} className="profile__skill">
                     <span><BsFillCheckCircleFill /></span>
@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <a className="outlined-btn"
-            href='https://github.com/nixrajput' target="_blank" rel="noreferrer"
+            href='https://github.com/Alhay97' target="_blank" rel="noreferrer"
           >
             My GitHub
           </a>
