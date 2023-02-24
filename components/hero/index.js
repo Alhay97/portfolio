@@ -12,13 +12,13 @@ const Hero = () => {
       <div className="sub-text">Ethical Hacker / Pentration Tester</div>
 
       <div className="detail-text">
-        <p>I am a <span>Software Engineer</span> specialized in both <span>front-end</span> and <span>back-end</span> development across platforms.</p>
+        <p>I am a <span>Cyber security Student</span> specialized in both <span>Ethical Hacking</span> and <span>Web application</span> testing</p>
         <br />
-        <p>Currently, I am exploring Flutter and Node.js to build full-stack applications.</p>
+        <p>Currently, I am exploring C/C++ for software development and Node.js to build front-stack applications.</p>
       </div>
 
       <a className="filled-btn"
-        href="mailto:nkr.nikhil.nkr@gmail.com" target="_blank" rel="noreferrer">
+        href="mailto:alhay.7@gmail.com" target="_blank" rel="noreferrer">
         Contact Me
       </a>
 
