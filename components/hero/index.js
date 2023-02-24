@@ -8,8 +8,8 @@ const Hero = () => {
     <div className="app__hero app__flex">
 
       <div className="p-text">Hi<span>👋</span>, I am</div>
-      <div className="head-text">Nikhil Rajput</div>
-      <div className="sub-text">Software Engineer / Full Stack Developer</div>
+      <div className="head-text">Alhai Ahmed Alhameli</div>
+      <div className="sub-text">Ethical Hacker / Pentration Tester</div>
 
       <div className="detail-text">
         <p>I am a <span>Software Engineer</span> specialized in both <span>front-end</span> and <span>back-end</span> development across platforms.</p>
