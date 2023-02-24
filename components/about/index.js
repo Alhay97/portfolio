@@ -20,10 +20,10 @@ const About = () => {
         <div className="spacer" />
 
         <div className="details">
-          <h1 className="head-text">I am Nikhil Rajput.</h1>
-          <p className="p-text"><span>•</span> Grad with Bachelor of Technology in Computer Science and Engineering.</p>
+          <h1 className="head-text">I am Alhai Ahmed Alhameli.</h1>
+          <p className="p-text"><span>•</span> Graduated with Bachelor of Technology in IT Security and Technologies.</p>
           <p className="p-text"><span>•</span> I have worked on various projects as a Flutter Developer as well as a Web Developer. Apart from that, I have also worked as a Backend Developer.</p>
-          <p className="p-text"><span>•</span> Strong knowledge and understanding of object-oriented programming, functional programming, RESTful APIs.</p>
+          <p className="p-text"><span>•</span> Strong knowledge and understanding of Ethical Hacking , Web application security, and C/C++ programming.</p>
 
           <p className='p-text-head'>My Preferred Tools and Technologies are 👇</p>
 
