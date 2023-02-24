@@ -8,7 +8,7 @@ const About = () => {
       <div className="flex__row">
 
         <div className="profile__img">
-          <Image src="/profile-pic.png"
+          <Image src="/image/alhai.jpg"
             alt="profile"
             width={1080}
             height={1080}
@@ -29,7 +29,7 @@ const About = () => {
 
           <div className="preferred__skills">
             {
-              ["Kali linux, Security onion", "OWASP, NMAP, Wire shark.", "JavaScript, C++", "Node.js, react.js"].map((item, index) => {
+              ["Kali linux, Security onion", "OWASP, NMAP, Wire shark.", "JavaScript, C++", "Node.js, react.js",].map((item, index) => {
                 return (
                   <div key={index} className="profile__skill">
                     <span><BsFillCheckCircleFill /></span>

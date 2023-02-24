@@ -2,7 +2,6 @@ import { AppWrap, MotionWrap } from "../wrapper";
 import { BsTwitter, BsInstagram, BsLinkedin, BsFacebook, BsEnvelopeFill, BsCup } from "react-icons/bs";
 
 const Footer = () => {
-
   return (
     <>
       <h2 className="head-text">Let&lsquo;s work together 🤝</h2>

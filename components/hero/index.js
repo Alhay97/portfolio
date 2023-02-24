@@ -1,6 +1,6 @@
 import { AppWrap, MotionWrap } from "../wrapper";
 
-const FavTools = ['/flutter.png', '/node.png', '/react.png', '/cpp.png'];
+const FavTools = [ 'image/kali.png', 'image/owasp2.png', '/node.png',  '/cpp.png'];
 
 const Hero = () => {
 
@@ -17,11 +17,23 @@ const Hero = () => {
         <p>Currently, I am exploring C/C++ for software development and Node.js to build front-stack applications.</p>
       </div>
 
+      <div style={{
+        display:"flex",
+        gap:"30px",
+        textTransform:"uppercase !important"
+      }}>
       <a className="filled-btn"
         href="mailto:alhay.7@gmail.com" target="_blank" rel="noreferrer">
         Contact Me
       </a>
+      <a className="filled-btn"
+        href="https://drive.google.com/file/d/1L3CEyfMGwAxFyp9QvDEa_0s5qRzvAk5f/view?usp=sharing" target="_blank" rel="noreferrer">
+        My Cv
+      </a>
 
+      </div>
+
+     
       <div className="fav__techs">
         {
           FavTools.map((tool, index) => {

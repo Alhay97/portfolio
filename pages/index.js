@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Hero, About, Projects, Experiences, Footer } from "../components";
+import { Hero, About, Projects, Experiences, Footer, Reflection } from "../components";
 
 export default function Home() {
   return (
@@ -14,6 +14,7 @@ export default function Home() {
       <About />
       <Projects />
       <Experiences />
+      <Reflection />
       <Footer />
     </div>
   );

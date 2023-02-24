@@ -28,7 +28,7 @@ const Navbar = () => {
     <nav className={scolled ? 'app__navbar scrolled' : 'app__navbar'}>
 
       <a href='#home' className='app__navbar-logo'>
-        <p>Nikhil</p>
+        <p>Alhai</p>
       </a>
 
       <ul className='app__navbar-links'>
